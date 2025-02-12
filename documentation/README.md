@@ -16,7 +16,7 @@ This is an e-commerce website built using Next.js (App Router) to provide users 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nike-ecommerce-store.git
+   git clone [https://github.com/your-username/nike-ecommerce-store.git](https://github.com/ZA-Githu/hackathon-nike-ecommerce.git)
 
 2. Navigate to the project directory:
    ```bash
